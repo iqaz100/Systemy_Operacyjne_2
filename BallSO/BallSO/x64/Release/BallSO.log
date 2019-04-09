@@ -1,0 +1,10 @@
+﻿  BallSO.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\wincontypes.h(103): warning C4005: "MOUSE_MOVED": ponowna definicja makra
+  c:\users\gtx\source\repos\ballso\packages\pdcurses34.3.4.0.1\build\native\include\curses.h(153): note: zobacz poprzednią definicję „MOUSE_MOVED”
+c:\users\gtx\source\repos\ballso\ballso\ballso.cpp(38): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 276 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  BallSO.vcxproj -> C:\Users\GTX\source\repos\BallSO\x64\Release\BallSO.exe
